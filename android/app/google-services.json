@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "341667687939",
+    "project_id": "mobileappyear2-a9d58",
+    "storage_bucket": "mobileappyear2-a9d58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341667687939:android:4bf19e1f861f8598b92836",
+        "android_client_info": {
+          "package_name": "com.example.pakrung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341667687939-cspa79iamtlke0u3kkho8p7bi3hevog9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnoSdOHTAw1Cy-gpc0ntCJ9RjVr2TbSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341667687939-cspa79iamtlke0u3kkho8p7bi3hevog9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341667687939:android:b7bb4dea5ad035f5b92836",
+        "android_client_info": {
+          "package_name": "com.pakrung.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341667687939-cspa79iamtlke0u3kkho8p7bi3hevog9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnoSdOHTAw1Cy-gpc0ntCJ9RjVr2TbSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341667687939-cspa79iamtlke0u3kkho8p7bi3hevog9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
